@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DigitalAssetsPlatform</title>
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+
+  <!-- JS do jsbundling‑rails build (esbuild) -->
+  <%= javascript_include_tag "application", "data-turbo-track": "reload", defer: true %>
+</head>
+<body>
+  <%= yield %>
+</body>
+</html>
