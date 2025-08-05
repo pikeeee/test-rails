@@ -38,7 +38,7 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem "pg", "~> 1.5"
+gem "pg", "~> 1.6"
 gem "bcrypt", "~> 3.1"
 gem "react-rails", "~> 3.2"
 gem "active_model_serializers", "~> 0.10.15"
