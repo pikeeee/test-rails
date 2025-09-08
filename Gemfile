@@ -43,7 +43,7 @@ gem "bcrypt", "~> 3.1"
 gem "react-rails", "~> 3.2"
 gem "active_model_serializers", "~> 0.10.15"
 gem "rspec-rails", "~> 8.0"
-gem "factory_bot_rails", "~> 6.4"
+gem "factory_bot_rails", "~> 6.5"
 gem "faker", "~> 3.5"
 
 gem "jsbundling-rails", "~> 1.3"
