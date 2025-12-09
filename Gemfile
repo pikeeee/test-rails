@@ -41,7 +41,7 @@ end
 gem "pg", "~> 1.5"
 gem "bcrypt", "~> 3.1"
 gem "react-rails", "~> 3.2"
-gem "active_model_serializers", "~> 0.10.15"
+gem "active_model_serializers", "~> 0.10.16"
 gem "rspec-rails", "~> 8.0"
 gem "factory_bot_rails", "~> 6.4"
 gem "faker", "~> 3.5"
